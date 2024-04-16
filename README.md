@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Power BI, DAX, Power Automate**
 
-- 📫 How to reach me **rahulsinghchundawat.er@gmail.com**
+- 📫 How to reach me **rahulsinghchundawat.lp@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
