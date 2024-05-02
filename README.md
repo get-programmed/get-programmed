@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **rahulsinghchundawat.lp@gmail.com**
 
-- 📈 My novypro Link **<a href="[url](https://www.novypro.com/version-live/profile_about/rahulsingh-6)">Rahul_Singh_@novypro</a>**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/rahul-singh-chundawat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rahul-singh-chundawat/" height="30" width="40" /></a>
