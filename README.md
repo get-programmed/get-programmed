@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **rahulsinghchundawat.lp@gmail.com**
 
-- 📈 My novypro Link **<a href="[url](https://www.novypro.com/version-live/profile_about/rahulsingh-6)">Rahul Singh @novypro</a>**
+- 📈 My novypro Link **<a href="[url](https://www.novypro.com/version-live/profile_about/rahulsingh-6)">Rahul_Singh_@novypro</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
